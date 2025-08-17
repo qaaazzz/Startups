@@ -2,4 +2,4 @@
 
 learning startups 
 
-stripe, uber, amazon, reddit, tesla 
+stripe, uber, amazon, reddit, tesla etc
